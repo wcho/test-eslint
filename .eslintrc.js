@@ -3,9 +3,7 @@ module.exports = {
         "browser": true
     },
     "extends": [
-        "eslint:recommended",
-        "plugin:react/recommended",
-        "plugin:cypress/recommended"
+        "eslint:recommended"
     ],
     "parserOptions": {
         "ecmaFeatures": {
